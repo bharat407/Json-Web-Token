@@ -1,0 +1,13 @@
+# Data Base Detail's
+---------------------
+
+1. Create a new_schema.
+2. Create a new table,according to given table.
+
+-- Users
+---------
+userid
+username
+password
+
+
