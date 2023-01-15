@@ -2,9 +2,9 @@ var mysql = require("mysql");
 var pool = mysql.createConnection({
   host: "localhost",
   port: 3306,
-  database: "rgpv",
+  database: "******",
   user: "root",
-  password: "1234",
+  password: "*****",
   multipleStatements: true,
 });
 module.exports = pool;
