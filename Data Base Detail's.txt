@@ -1,13 +1,13 @@
 # Data Base Detail's
----------------------
+--------------------
 
 1. Create a new_schema.
-2. Create a new table,according to given table.
+2. Create a new table, according to given below detail's.
 
--- Users
----------
-userid
-username
-password
-
-
+Table name => Users
+-------------------
+Detail's
+--------------------
+userid [Datatype - INT, Auto Increment, Not Null, Primary Key]
+username [Datatype - VARCHAR]
+password [Datatype - TEXT]
