@@ -15,3 +15,22 @@
 
 ![image](https://user-images.githubusercontent.com/85440714/212524715-92728f81-0093-438d-bf2b-d824371c6d25.png)
 
+
+
+<br><br>
+
+# Example or Testing
+--------------------
+- Using Postman
+- The API call is coming from an authenticated user.
+
+<br>
+
+
+![image](https://user-images.githubusercontent.com/85440714/213862403-86414919-c034-4e68-9951-c76f62f5704d.png)
+
+
+
+# Thank you 
+
+
